@@ -1,0 +1,38 @@
+# -----------------------------
+# Secrets & Environment Variables
+# -----------------------------
+.env
+
+# -----------------------------
+# Python & Environment
+# -----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+
+# -----------------------------
+# Project-Specific Local Data
+# -----------------------------
+# Vector Database
+chroma_db/
+
+# Temporary media files
+temp_audio/
+
+# Caching map
+cache.json
+
+# -----------------------------
+# OS & Editor configurations
+# -----------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
