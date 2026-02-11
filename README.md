@@ -103,6 +103,8 @@ video-2-doc/
 ├── temp_audio/                 # Temporary audio file storage
 ├── chroma_db/                  # Vector database storage
 ├── cache.json                  # Processing cache
+├── .env
+├── .gitignore
 ├── requirements.txt            # Python dependencies
 └── README.md                   # This file
 ```
@@ -184,3 +186,4 @@ MIT License - Feel free to use and modify!
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
