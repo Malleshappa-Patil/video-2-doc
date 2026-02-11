@@ -1,0 +1,19 @@
+# Backend Core
+fastapi
+uvicorn
+python-multipart
+
+# Frontend
+streamlit
+
+# Audio & Speech-to-Text
+faster-whisper
+yt-dlp
+
+# LLM, RAG & Vector DB
+langchain
+langchain-google-genai
+chromadb
+
+# Utilities
+python-dotenv
